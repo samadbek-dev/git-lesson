@@ -5,4 +5,6 @@ $b=56;
 $f=41;
 echo $a1+$b+$f;
 echo ("hello world");
+$d = "Salom";
+echo $d;
 ?>
